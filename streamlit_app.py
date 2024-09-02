@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('Streamlit Machine Learning App')
+st.title('🤖 Streamlit Machine Learning App 🤖')
 
 st.info("""
 Welcome to the Machine Learning App. This app allows you to upload datasets and models, visualize model performance, and make predictions. 
